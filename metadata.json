@@ -1,0 +1,8 @@
+{
+  "name": "Fan Hub Plus",
+  "description": "The ultimate Fandom Universe portal to discover, explore, and celebrate Anime, Gaming, Movies, TV Shows, K-Pop, Comics, Manga, and Cosplay.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
